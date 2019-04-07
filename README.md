@@ -4,3 +4,4 @@
 2. Install Live Sass Compiler extension
 3. Start watching Sass
 
+[CSS clip-path maker](https://bennettfeely.com/clippy/)
